@@ -5,10 +5,14 @@ In response to https://www.nytimes.com/2020/03/22/opinion/health/ventilator-shor
 
 # Status as of:
 
+Mar 22 4:00 EDT: High level design posted
+
 Mar 22 2:30 EDT: DB schema complete and pushed; working on high level back-end design
 
-Mar 22 1:15 EDT: Designing general approach and DB schema (initial plan is to use Java Spring + ActiveMQ + SQL Server)
+Mar 22 1:15 EDT: Designing general approach and DB schema
 
 # Help Wanted:
 
-UI developers
+* UI developers
+
+* DevOps engineers
